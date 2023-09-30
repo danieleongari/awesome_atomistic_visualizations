@@ -19,3 +19,7 @@ Only SMILES input/output
 ## nglview - [GitHub](https://github.com/nglviewer/nglview), [Docs](https://wiki.fysik.dtu.dk/ase/ase/visualize/visualize.html)
 
 ![screenshot](screenshots/nglview.png)
+
+## Speck
+
+![screenshot](screenshots/speck.png)
