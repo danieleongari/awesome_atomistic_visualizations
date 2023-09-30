@@ -6,6 +6,12 @@ Collection of packages to visualize the atomistic structure of molecules and cry
 
 ![screenshot](screenshots/ase_notebook.png)
 
+## JSME
+
+Only SMILES input/output
+
+![screenshot](screenshots/jsme.png)
+
 ## JSMol
 
 > Not working on VSCode Notebook
