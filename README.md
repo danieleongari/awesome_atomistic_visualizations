@@ -2,6 +2,10 @@
 
 Collection of packages to visualize the atomistic structure of molecules and crystals, tested on Python 3.9 and VSCode Notebook.
 
+## [3Dmol](https://github.com/danieleongari/awesome_atomistic_visualizations/blob/master/notebooks/3dmol.ipynb)
+
+![screenshot](screenshots/3dmol.png)
+
 ## [ASE-Notebook](https://github.com/danieleongari/awesome_atomistic_visualizations/blob/master/notebooks/ase_notebook.ipynb)
 
 ![screenshot](screenshots/ase_notebook.png)
