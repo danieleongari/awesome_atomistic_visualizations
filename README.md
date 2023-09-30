@@ -2,24 +2,24 @@
 
 Collection of packages to visualize the atomistic structure of molecules and crystals, tested on Python 3.9 and VSCode Notebook.
 
-## ase-notebook - [GitHub](https://github.com/chrisjsewell/ase-notebook), [Docs](https://ase-notebook.readthedocs.io/en/latest/)
+## [ASE-Notebook](https://github.com/danieleongari/awesome_atomistic_visualizations/blob/master/notebooks/ase_notebook.ipynb)
 
 ![screenshot](screenshots/ase_notebook.png)
 
-## JSME
+## [JSME](https://github.com/danieleongari/awesome_atomistic_visualizations/blob/master/notebooks/jsme.ipynb)
 
 Only SMILES input/output
 
 ![screenshot](screenshots/jsme.png)
 
-## JSMol
+## [JSMol](https://github.com/danieleongari/awesome_atomistic_visualizations/blob/master/notebooks/jsmol.ipynb)
 
 > Not working on VSCode Notebook
 
-## nglview - [GitHub](https://github.com/nglviewer/nglview), [Docs](https://wiki.fysik.dtu.dk/ase/ase/visualize/visualize.html)
+## [NGLView](https://github.com/danieleongari/awesome_atomistic_visualizations/blob/master/notebooks/nglview.ipynb)
 
 ![screenshot](screenshots/nglview.png)
 
-## Speck
+## [Speck](https://github.com/danieleongari/awesome_atomistic_visualizations/blob/master/notebooks/speck.ipynb)
 
 ![screenshot](screenshots/speck.png)
